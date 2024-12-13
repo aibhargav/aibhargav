@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/bodapati sai bhargav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bodapati sai bhargav" height="30" width="40" /></a>
 <a href="https://kaggle.com/bsbhargavaiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bsbhargavaiml" height="30" width="40" /></a>
 <a href="https://instagram.com/bhargav.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhargav.ai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sbhargav.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sbhargav.18" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sbhargav.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sbhargav.18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sbhargav_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sbhargav_ai" height="30" width="40" /></a>
 </p>
 
